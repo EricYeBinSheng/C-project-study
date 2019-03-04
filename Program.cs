@@ -11,6 +11,7 @@ namespace ConsoleAppTest3
         static void Main(string[] args)
         {
             Console.WriteLine("look at see,you can!!!!");
+            Console.WriteLine("why??????????");
         }
     }
 }
